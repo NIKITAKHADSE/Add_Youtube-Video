@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(240deg, #1a1919, #ff808000);
+
+}
+
+
+.container{
+
+    width: 700px;
+    height:400px ;
+    margin: 50px auto;
+    /* top: 50%; */
+    /* left:50%; */
+    /* position: absolute; */
+    align-items: center;
+    padding: 100px ;
+}
